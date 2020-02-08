@@ -1,0 +1,13 @@
+.genres {
+    display: inline-block;
+    position: fixed;
+    padding: 0;
+    left:0;
+    top:100px; }
+    .genres li {
+      font-size: 14px;
+      text-align: left;
+      padding: 5px 30px; }
+      .genres li:hover {
+        background-color: #c3c7ff;
+        cursor: pointer; }

@@ -1,0 +1,20 @@
+.autentif{
+	width:300px;
+	margin: 10% auto 0 auto;
+}
+
+.form h2{
+	padding: 10px 0;
+}
+
+.nav-link, span{
+	color: rgb(211, 211, 211);
+}
+
+.nav-link:hover{
+	color: rgb(0, 0, 0);
+}
+
+.active{
+	color: rgb(0, 0, 0);
+}
